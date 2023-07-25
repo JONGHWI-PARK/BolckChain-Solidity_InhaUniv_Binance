@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "data",
+						"type": "string"
+					}
+				],
+				"name": "ZeroCheckError",
+				"type": "error"
+			},
+			{
+				"inputs": [],
+				"name": "order",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-study-main/3.tutorial/ex14/contracts/CustomError.sol": "CustomError"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-study-main/3.tutorial/ex14/contracts/CustomError.sol": {
+			"keccak256": "0x9f79ff41aa44837aabba95796d276820d747aaa2582d2be1fab636d964483401",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4dbf25386b901d1c7422b101d04d213b7b7422c9a809b5bdb91cb6bf6d77e49f",
+				"dweb:/ipfs/QmTNJAZdadgVSdaQFruPEUYS3U7n6wzDfZJr6fvxGauaXT"
+			]
+		}
+	},
+	"version": 1
+}

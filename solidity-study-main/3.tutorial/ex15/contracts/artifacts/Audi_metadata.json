@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getDoor",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getModel",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-study-main/3.tutorial/ex15/contracts/Inherit.sol": "Audi"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-study-main/3.tutorial/ex15/contracts/Inherit.sol": {
+			"keccak256": "0x0206c14994e4f8cd45135a8e33ef4cecc9215866b85e3fee7ce9c3014c0a42cd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://69a2662f4ae0a467acb27adeac7d1ce72a28bf4407daa34c54fd428572c7d409",
+				"dweb:/ipfs/QmcBRyCYhfZ12ty2N1zoCWpYvjuom4mWKehW5tfvmGLhfa"
+			]
+		}
+	},
+	"version": 1
+}

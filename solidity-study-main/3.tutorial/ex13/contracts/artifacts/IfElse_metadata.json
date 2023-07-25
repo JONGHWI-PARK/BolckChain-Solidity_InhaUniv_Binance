@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "buyPrice",
+						"type": "uint256"
+					}
+				],
+				"name": "conditional",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "minimalPrice",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-study-main/3.tutorial/ex13/contracts/IfElse.sol": "IfElse"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-study-main/3.tutorial/ex13/contracts/IfElse.sol": {
+			"keccak256": "0xa6731dd6e40526df6162278f179546e21a1fff9449abae2caf7e5a6e7d39a4a0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a7a02cbc725953bf0b5794a381ab57256ff915159536323408f7a7e9141f384",
+				"dweb:/ipfs/QmZYa2XkmsHBA9MLXk7A9XqurUeYMW1HoAwMrLxiA5CG1D"
+			]
+		}
+	},
+	"version": 1
+}

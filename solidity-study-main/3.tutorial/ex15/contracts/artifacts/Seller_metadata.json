@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_seller",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getSeller",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity-study-main/3.tutorial/ex15/contracts/MultiInheritance.sol": "Seller"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity-study-main/3.tutorial/ex15/contracts/MultiInheritance.sol": {
+			"keccak256": "0x0fe9df217b8c86f8a7312b51a989342fc4a8375604d4421f9bc1a8236dc7b6c6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a02f53143473a0c7c1bd422f8c6ad7d625712df8f5e1e949d2ba9dad9048b1c4",
+				"dweb:/ipfs/QmV5TMhHvs9fb9rrdCzwoa6og74w3oN7b6rSsrQii48aV7"
+			]
+		}
+	},
+	"version": 1
+}
