@@ -245,7 +245,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"solidity-study-main/4.example/erc1967/UUPS-Proxy-V4.sol": "MyToken"
+			"solidity-study-main/4.example/erc1967/UUPS-Proxy-V2.sol": "MyToken"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -253,7 +253,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
@@ -339,12 +339,12 @@
 				"dweb:/ipfs/QmWe49zj65jayrCe9jZpoWhYUZ1RiwSxyU2s7SBZnMztVy"
 			]
 		},
-		"solidity-study-main/4.example/erc1967/UUPS-Proxy-V4.sol": {
-			"keccak256": "0x3cf059b22d0468ac096b8b16daecda6a7f9cf0b8a08482585db08f53d18f05fc",
+		"solidity-study-main/4.example/erc1967/UUPS-Proxy-V2.sol": {
+			"keccak256": "0x0470bbc63ede8a1b24360b736bbdded5ac3316d480419cdfd1bedbd518c3ac0b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://42a9127ee1c19b0615efcc01768bedbbfb0d46d81bd9a834ef7bb74dee54c5be",
-				"dweb:/ipfs/QmPTSwBSdCr5g7HTc7h57mLXNv2K4LRA7wDUf5YvUiWtC1"
+				"bzz-raw://b2d7d821aa32c298a0d0dbb9d4685d2658db87ba4d138009269a18aec994c790",
+				"dweb:/ipfs/QmczvdFm72rLJokw2N66UPBYcx5UL6cGHcrC9wHnqxLftr"
 			]
 		}
 	},

@@ -262,7 +262,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"solidity-study-main/4.example/erc1967/UUPS-Proxy-V4.sol": "MyTokenV3"
+			"solidity-study-main/4.example/erc1967/UUPS-Proxy-V3.sol": "MyTokenV3"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -270,7 +270,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
@@ -356,7 +356,7 @@
 				"dweb:/ipfs/QmWe49zj65jayrCe9jZpoWhYUZ1RiwSxyU2s7SBZnMztVy"
 			]
 		},
-		"solidity-study-main/4.example/erc1967/UUPS-Proxy-V4.sol": {
+		"solidity-study-main/4.example/erc1967/UUPS-Proxy-V3.sol": {
 			"keccak256": "0x3cf059b22d0468ac096b8b16daecda6a7f9cf0b8a08482585db08f53d18f05fc",
 			"license": "MIT",
 			"urls": [
